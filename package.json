@@ -3,6 +3,7 @@
 	"author": "Aida Ibisevic",
 	"description": "Learning npm through FFC",
 	"keywords": [ "learning", "through", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
