@@ -3,16 +3,16 @@
 	"author": "Aida Ibisevic",
 	"description": "Learning npm through FFC",
 	"keywords": [
-		"learning", 
-		"through", 
-		"freecodecamp" 
+		"learning",
+		"through",
+		"freecodecamp"
 	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
 		"package-name": "version",
 		"express": "4.14.0",
-		"moment":"~2.10.2"
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -21,6 +21,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"devDependencies": {
+		"prettier": "2.2.1"
 	}
-
 }
