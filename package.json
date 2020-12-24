@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Aida Ibisevic",
 	"description": "Learning npm through FFC",
-
+	"keywords": [ "learning", "through", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
