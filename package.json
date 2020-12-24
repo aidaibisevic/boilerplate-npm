@@ -4,6 +4,7 @@
 	"description": "Learning npm through FFC",
 	"keywords": [ "learning", "through", "freecodecamp" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
